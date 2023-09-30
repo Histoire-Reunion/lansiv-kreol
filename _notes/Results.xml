@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes" ?>
+<un:pbmstore xmlns:un="http://usablenet.com/namespaces/508as_results">
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/Theo/Mes documents/Mes sites Web/lansiv kréol/histoir_intro.htm</un:fileurl>
+    <un:offset1>10753</un:offset1>
+    <un:offset2>10818</un:offset2>
+    <un:linenum>146</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>Aucun texte ALT défini pour l'image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/Theo/Mes documents/Mes sites Web/lansiv kréol/histoir_intro.htm</un:fileurl>
+    <un:offset1>10753</un:offset1>
+    <un:offset2>10818</un:offset2>
+    <un:linenum>146</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>L'image (autre qu'espacement) a peut-être besoin d'unattribut LONGDESC.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>SCRIPTwValidNOSCRIPT</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/Theo/Mes documents/Mes sites Web/lansiv kréol/histoir_intro.htm</un:fileurl>
+    <un:offset1>7286</un:offset1>
+    <un:offset2>7404</un:offset2>
+    <un:linenum>97</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>NOSCRIPT manquant : aucun NOSCRIPT ne suit le SCRIPT.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>DontRelyOnColorAlone</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/Theo/Mes documents/Mes sites Web/lansiv kréol/histoir_intro.htm</un:fileurl>
+    <un:offset1>105</un:offset1>
+    <un:offset2>11481</un:offset2>
+    <un:linenum>3</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ColorsAreVisible</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/Theo/Mes documents/Mes sites Web/lansiv kréol/histoir_intro.htm</un:fileurl>
+    <un:offset1>105</un:offset1>
+    <un:offset2>11481</un:offset2>
+    <un:linenum>3</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>StyleSheetsNotNecessary</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/Theo/Mes documents/Mes sites Web/lansiv kréol/histoir_intro.htm</un:fileurl>
+    <un:offset1>2869</un:offset1>
+    <un:offset2>3031</un:offset2>
+    <un:linenum>71</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>La page utilise des feuilles de style pour présenter soncontenu. Il se peut que certains navigateurs ne puissent paslire les feuilles de styles ou que ces dernières soientincompatibles avec les informations de stylespécifiées par l'utilisateur.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>StyleSheetsNotNecessary</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/Theo/Mes documents/Mes sites Web/lansiv kréol/histoir_intro.htm</un:fileurl>
+    <un:offset1>3031</un:offset1>
+    <un:offset2>3284</un:offset2>
+    <un:linenum>72</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>La page utilise des feuilles de style pour présenter soncontenu. Il se peut que certains navigateurs ne puissent paslire les feuilles de styles ou que ces dernières soientincompatibles avec les informations de stylespécifiées par l'utilisateur.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>StyleSheetsNotNecessary</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/Theo/Mes documents/Mes sites Web/lansiv kréol/histoir_intro.htm</un:fileurl>
+    <un:offset1>3284</un:offset1>
+    <un:offset2>7160</un:offset2>
+    <un:linenum>73</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>La page utilise des feuilles de style pour présenter soncontenu. Il se peut que certains navigateurs ne puissent paslire les feuilles de styles ou que ces dernières soientincompatibles avec les informations de stylespécifiées par l'utilisateur.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>StyleSheetsNotNecessary</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/Theo/Mes documents/Mes sites Web/lansiv kréol/histoir_intro.htm</un:fileurl>
+    <un:offset1>7160</un:offset1>
+    <un:offset2>7420</un:offset2>
+    <un:linenum>96</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>La page utilise des feuilles de style pour présenter soncontenu. Il se peut que certains navigateurs ne puissent paslire les feuilles de styles ou que ces dernières soientincompatibles avec les informations de stylespécifiées par l'utilisateur.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>StyleSheetsNotNecessary</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/Theo/Mes documents/Mes sites Web/lansiv kréol/histoir_intro.htm</un:fileurl>
+    <un:offset1>7420</un:offset1>
+    <un:offset2>7555</un:offset2>
+    <un:linenum>99</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>La page utilise des feuilles de style pour présenter soncontenu. Il se peut que certains navigateurs ne puissent paslire les feuilles de styles ou que ces dernières soientincompatibles avec les informations de stylespécifiées par l'utilisateur.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>StyleSheetsNotNecessary</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/Theo/Mes documents/Mes sites Web/lansiv kréol/histoir_intro.htm</un:fileurl>
+    <un:offset1>8164</un:offset1>
+    <un:offset2>8467</un:offset2>
+    <un:linenum>112</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>La page utilise des feuilles de style pour présenter soncontenu. Il se peut que certains navigateurs ne puissent paslire les feuilles de styles ou que ces dernières soientincompatibles avec les informations de stylespécifiées par l'utilisateur.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>StyleSheetsNotNecessary</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/Theo/Mes documents/Mes sites Web/lansiv kréol/histoir_intro.htm</un:fileurl>
+    <un:offset1>9305</un:offset1>
+    <un:offset2>10692</un:offset2>
+    <un:linenum>129</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>La page utilise des feuilles de style pour présenter soncontenu. Il se peut que certains navigateurs ne puissent paslire les feuilles de styles ou que ces dernières soientincompatibles avec les informations de stylespécifiées par l'utilisateur.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>StyleSheetsNotNecessary</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/Theo/Mes documents/Mes sites Web/lansiv kréol/histoir_intro.htm</un:fileurl>
+    <un:offset1>10997</un:offset1>
+    <un:offset2>11247</un:offset2>
+    <un:linenum>150</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>La page utilise des feuilles de style pour présenter soncontenu. Il se peut que certains navigateurs ne puissent paslire les feuilles de styles ou que ces dernières soientincompatibles avec les informations de stylespécifiées par l'utilisateur.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>StyleSheetsNotNecessary</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/Theo/Mes documents/Mes sites Web/lansiv kréol/histoir_intro.htm</un:fileurl>
+    <un:offset1>1225</un:offset1>
+    <un:offset2>2717</un:offset2>
+    <un:linenum>24</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>La page utilise des feuilles de style pour présenter soncontenu. Il se peut que certains navigateurs ne puissent paslire les feuilles de styles ou que ces dernières soientincompatibles avec les informations de stylespécifiées par l'utilisateur.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>TableWithHeaders</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/Theo/Mes documents/Mes sites Web/lansiv kréol/histoir_intro.htm</un:fileurl>
+    <un:offset1>7555</un:offset1>
+    <un:offset2>11465</un:offset2>
+    <un:linenum>100</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>La page contient un tableau pouvant être utilisépour présenter des données. Si c'est le cas, leslignes et les colonnes du tableau doivent contenir desen-têtes (c.-à-d. des chaînes avec desbalises TH).</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>TextOnlyEquivPage</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/Theo/Mes documents/Mes sites Web/lansiv kréol/histoir_intro.htm</un:fileurl>
+    <un:offset1>777</un:offset1>
+    <un:offset2>1223</un:offset2>
+    <un:linenum>14</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>SkipRepetitiveLinks</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/Theo/Mes documents/Mes sites Web/lansiv kréol/histoir_intro.htm</un:fileurl>
+    <un:offset1>2861</un:offset1>
+    <un:offset2>11472</un:offset2>
+    <un:linenum>70</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Vérifiez qu'un lien texte est bien présent pouréviter les liens de navigationrépétés sur chaque page.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>NoFlickeringGIFs</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/Theo/Mes documents/Mes sites Web/lansiv kréol/histoir_intro.htm</un:fileurl>
+    <un:offset1>2861</un:offset1>
+    <un:offset2>11472</un:offset2>
+    <un:linenum>70</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>La page contient des images GIF :occasionnent-t-elles des scintillements d'écran ?Si c'est le cas, modifiez ou supprimez ces images.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>NoFlickeringObjects</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/Theo/Mes documents/Mes sites Web/lansiv kréol/histoir_intro.htm</un:fileurl>
+    <un:offset1>777</un:offset1>
+    <un:offset2>1223</un:offset2>
+    <un:linenum>14</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>NoFlickeringObjects</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/Theo/Mes documents/Mes sites Web/lansiv kréol/histoir_intro.htm</un:fileurl>
+    <un:offset1>7286</un:offset1>
+    <un:offset2>7404</un:offset2>
+    <un:linenum>97</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ClearLangForSite</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/Theo/Mes documents/Mes sites Web/lansiv kréol/histoir_intro.htm</un:fileurl>
+    <un:offset1>2861</un:offset1>
+    <un:offset2>11472</un:offset2>
+    <un:linenum>70</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ClarifyNatLangUsage</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/Theo/Mes documents/Mes sites Web/lansiv kréol/histoir_intro.htm</un:fileurl>
+    <un:offset1>2861</un:offset1>
+    <un:offset2>11472</un:offset2>
+    <un:linenum>70</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+</un:pbmstore>
